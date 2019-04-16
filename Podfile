@@ -1,0 +1,6 @@
+target '一些第三方的使用'
+pod 'FLAnimatedImage', '~>1.0'
+pod 'SDWebImage'
+pod 'Masonry'
+pod 'MRDLNA'
+#pod 'LFLiveKit'
